@@ -1,5 +1,5 @@
 /* ============================================================
-   GROUNDPLANE — papers-ops.js
+   Benchtop Build — papers-ops.js
    Threads for the Operations section.
 
    THREAD TEMPLATE — copy, fill, and push. (Full reference also

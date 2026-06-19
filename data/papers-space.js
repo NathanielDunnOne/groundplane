@@ -1,5 +1,5 @@
 /* ============================================================
-   GROUNDPLANE — papers-space.js
+   Benchtop Build — papers-space.js
    Threads for the Space & Geophysics section.
    (Thread template: see top of papers-ops.js)
    ============================================================ */

@@ -1,5 +1,5 @@
 /* ============================================================
-   GROUNDPLANE — papers-energy.js
+   Benchtop Build — papers-energy.js
    Threads for the Energy Systems section.
    (Thread template: see top of papers-ops.js)
    ============================================================ */

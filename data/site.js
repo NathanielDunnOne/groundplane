@@ -1,5 +1,5 @@
 /* ============================================================
-   GROUNDPLANE — site.js
+   Benchtop Build — site.js
    Site identity + board structure. Edit this file to rename
    the site, change the operator, or add sections and boards.
 
@@ -14,7 +14,7 @@
    ============================================================ */
 
 window.SITE = {
-  name: "GROUNDPLANE",
+  name: "Benchtop Build",
   tagline: "Research & Projects Forum of ND",
   owner: {
     handle: "ND",
@@ -23,7 +23,7 @@ window.SITE = {
     affiliation: "Independent Research & Project Notes"
   },
   // Used in citations and the masthead. Set to your real URL after deploying.
-  canonicalUrl: "https://nathanieldunnone.github.io/groundplane",
+  canonicalUrl: "https://benchtopbuild.com",
 
   sections: [
     {

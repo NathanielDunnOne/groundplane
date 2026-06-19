@@ -1,5 +1,5 @@
 /* ============================================================
-   GROUNDPLANE — papers-bench.js
+   Benchtop Build — papers-bench.js
    Threads for the Circuits & Systems section.
    (Thread template: see top of papers-ops.js)
    ============================================================ */
