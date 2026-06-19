@@ -1,5 +1,5 @@
 /* ============================================================
-   Benchtop Build — papers-energy.js
+   BenchtopBuild — papers-energy.js
    Threads for the Energy Systems section.
    (Thread template: see top of papers-ops.js)
    ============================================================ */

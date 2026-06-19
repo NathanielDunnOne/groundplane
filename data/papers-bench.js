@@ -1,5 +1,5 @@
 /* ============================================================
-   Benchtop Build — papers-bench.js
+   BenchtopBuild — papers-bench.js
    Threads for the Circuits & Systems section.
    (Thread template: see top of papers-ops.js)
    ============================================================ */

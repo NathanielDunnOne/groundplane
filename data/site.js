@@ -1,5 +1,5 @@
 /* ============================================================
-   Benchtop Build — site.js
+   BenchtopBuild — site.js
    Site identity + board structure. Edit this file to rename
    the site, change the operator, or add sections and boards.
 
@@ -14,7 +14,7 @@
    ============================================================ */
 
 window.SITE = {
-  name: "Benchtop Build",
+  name: "BenchtopBuild",
   tagline: "Research & Projects Forum of ND",
   owner: {
     handle: "ND",

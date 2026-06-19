@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /* ============================================================
-   Benchtop Build — scripts/validate.mjs
+   BenchtopBuild — scripts/validate.mjs
    Content validator for the data files. Run it after editing
    anything in data/ to catch mistakes before they hit the site.
 

@@ -1,5 +1,5 @@
 /* ============================================================
-   Benchtop Build — papers-ops.js
+   BenchtopBuild — papers-ops.js
    Threads for the Operations section.
 
    THREAD TEMPLATE — copy, fill, and push. (Full reference also

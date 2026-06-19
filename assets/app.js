@@ -1,5 +1,5 @@
 /* ============================================================
-   Benchtop Build — app.js
+   BenchtopBuild — app.js
    Client-side renderer. No dependencies, no build step.
    Works from file:// and any static host.
    You should not need to edit this file to post — content
